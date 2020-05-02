@@ -8,7 +8,7 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : HappyShield
+title : ENIM Face shield Injection moldinf
 # author :
 #  name : Karl Broman
 #  email : kbroman@gmail.com
@@ -17,7 +17,7 @@ title : HappyShield
 #  feedburner : nil
 
 # NOTE: Replacing this next line with your own URL
-production_url : happyshield.github.io
+production_url : fab619.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -56,7 +56,7 @@ JB :
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #
   # NOTE: Replace this next line with your own URL, likely with username.github.io
-  BASE_PATH : https://happyshield.github.io
+  BASE_PATH : https://fab619.github.io/ENIM_Face_Shield_Injection_Molding/en/
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
