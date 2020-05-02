@@ -39,7 +39,7 @@
       <div class="navbar-inner">
         <div class="container-narrow">
           <a class="brand" href="https://happyshield.github.io/en"> 
-            <img class="navbar-logo-img" src="../Media/Enim%20logo.png" alt="ENIM Logo">ENIM_Face_Shield_Injection_Molding</a>
+            <img class="navbar-logo-img" src="../master/Media/Enim%20logo.png" alt="ENIM Logo">ENIM_Face_Shield_Injection_Molding</a>
           <a href = "https://happyshield.github.io/languages/" class="brand" style="float: right"> EN 🌐</a> 
         </div>
       </div>
