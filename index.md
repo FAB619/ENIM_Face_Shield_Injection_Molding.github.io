@@ -2,6 +2,8 @@
 layout: page
 title: ENIM Face shield Injection molding 
 tagline: Protection face shield with injection molding (Made in Tunisia)
+permalink: /en/
+language: en
 redirect_from: /
 ---
 
