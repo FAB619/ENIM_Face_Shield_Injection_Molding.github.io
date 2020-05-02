@@ -7,7 +7,7 @@ language: en
 redirect_from: /
 ---
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//NzHtaLhImxM' frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/watch?v=TEMpHAH33gs&amp=&feature=youtu.be&amp=&fbclid=IwAR0YzqWdFSXPtsDNnsBrY-V7VimHBuZPK7n3nJlEamuzjsb8v8FIkzG05zg' frameborder='0' allowfullscreen></iframe></div>
 
 ---
 
@@ -128,37 +128,7 @@ Are you comfortable writing technically in a language other than English? We nee
 
 The University of Cambridge (UC) and the University of Queensland (UQ) make no warranty of any kind, express or implied, about the design, characteristics, durability, proper use or performance of the HappyShield, including but not limited to implied warranties of merchantability and fitness for any particular purpose. The HappyShield is designed to minimise exposure to fluids and sprays, but UC and UQ do not warrant that HappyShield will protect users from COVID-19 infection or any other infectious disease. Nothing in this material constitutes medical advice, and users should seek their own medical advice about whether HappyShield is suitable for the use they intend, and whether they should use it in conjunction with any other medical or other strategies. To the fullest extent allowed by law, UC and UQ exclude all implied warranties, guarantees, terms and conditions. UC and UQ are not liable for any claims, demands, damages or injuries, including but not limited to property damage, bodily injury or illness, death, indirect, special or consequential damages (“the Claims”) arising out of using the HappyShield, and users of HappyShield release UC and UQ and their officers, employees, contractors and agents from all Claims.
 
-**_Please note: HappyShield has not yet been certified for use as personal protective equipment._**
-
---- 
-
-#### Project Credits
-
-University of Cambridge, Department of Architecture  
-Centre for Natural Material Innovation
-
-
-University of Queensland, School of Civil Engineering  
-Folded Structures Lab  
-
-Wesam Al Asali  
-Tom Bashford  
-Aurimas Bukauskas  
-Mutsuko Grant  
-Joe Gattas  
-Ana Gatoo  
-Yelda Gin  
-Will Hawkins  
-Millie Hood  
-Aftab Jalia  
-Antiopi Koronaki  
-Jeff Lee  
-Ana Maia  
-Andy Conway Morris  
-Josh Newman  
-Daniel Ott  
-Michael Ramage  
-Darshil Shah  
+ 
 
 ---
 
