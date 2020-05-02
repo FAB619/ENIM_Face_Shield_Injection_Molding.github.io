@@ -10,7 +10,7 @@ redirect_from: /
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZA-y-18QV-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
-![ENIM test photo](../master/Media/3.jpg)
+![](../../master/Media/3.jpg)
 
 
 # What? 
