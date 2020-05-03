@@ -3,8 +3,9 @@ author:
   name: FAB619
   email: alilakais@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-Les masques visières sont utiles pour le personnel médical et également pour tous les agents de service susceptibles
-d’être confrontés un risque de contamination (Agents de nettoyage, pompiers, …)
+  Les masques visières sont utiles pour le personnel médical 
+  et également pour tous les agents de service susceptibles
+  d’être confrontés un risque de contamination (Agents de nettoyage, pompiers, …)
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
