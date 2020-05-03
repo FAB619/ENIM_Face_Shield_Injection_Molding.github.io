@@ -16,8 +16,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    #twitter: jekyllrb
+    github:  FAB619/ENIM_Face_Shield_Injection_Molding
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
