@@ -9,6 +9,8 @@ layout: page
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KehVifwXcSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr />
+
 
 
 # What?
@@ -57,3 +59,7 @@ In order to increase the production rate of these visor masks, a reflection was 
 
 # Disclaimer
 <hr />
+
+This Project was entirely done by ENIM students and proffessors with the help of local industries to help the government against COVID-19.
+
+FAB619 is only the documentation author. The project belongs to ENIM - École nationale d'ingénieurs de Monastir.
