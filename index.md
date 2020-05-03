@@ -9,7 +9,7 @@ redirect_from: /
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZA-y-18QV-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
-![](../blob/master/Media/3.jpg)
+![](https://github.com/FAB619/ENIM_Face_Shield_Injection_Molding/blob/master/Media/3.jpg)
 
 
 # What? 
