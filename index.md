@@ -13,11 +13,12 @@ layout: page
 # What?
 <hr />
 
-<img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/1.jpg">
+<img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/1.jpg" style="width:30px;height:30px;" />
 
 
 
 # Why?
+<hr />
 
 
 # How?
