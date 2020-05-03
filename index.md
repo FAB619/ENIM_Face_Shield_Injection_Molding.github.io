@@ -13,19 +13,22 @@ layout: page
 
 # What?
 <hr />
+It is one of the first urgent actions to combat the spread of the virus.
+The request was made, first, by the medical profession and then relayed by the public authorities.
 
-<img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/1.jpg" style="width:30px;height:30px;" />
+
 
 
 
 # Why?
 <hr />
+Visor masks are useful for medical personnel and also for all service agents likely to be confronted with a risk of contamination (cleaning agents, firefighters, etc.)
 
 
 # How?
-
-
 <hr />
+In a first phase, the group in charge of this project carried out the design and manufacture of visor masks by laser cutting (for a good rate compared to 3d printing - Manufacturing time: 2 minutes) and using plates of plexiglass.
+In order to increase the production rate of these visor masks, a reflection was carried out to choose the optimal manufacturing process. The team in charge of this project opted for plastic injection manufacturing. We are aiming to manufacture 10,000 additional pieces. A first injection mold was designed and manufactured by the means of ENIM.
 
 
 <h2 id="gallery">Gallery</h2>
