@@ -32,19 +32,13 @@ layout: page
 <hr />
 <div class="row">
   <div class="column">
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/1.jpg">
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/2.jpg">
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/3.jpg">
+    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/1.jpg" style="width:225px;height:300px;" />
+    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/2.jpg" style="width:225px;height:300px;" />
+    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/3.jpg" style="width:225px;height:300px;" />
   </div>
   <div class="column">
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/5.jpg">
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/4.jpg">
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/6.jpg">
-  </div>
-</div>
-  <div class="column">
-    <img src="underwater.jpg">
-    <img src="ocean.jpg">
-    <img src="wedding.jpg">
+    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/5.jpg" style="width:225px;height:300px;" />
+    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/4.jpg" style="width:225px;height:300px;" />
+    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/6.jpg" style="width:225px;height:300px;" />
   </div>
 </div>
