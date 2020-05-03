@@ -18,3 +18,18 @@ layout: page
 
 
 # How?
+
+
+<hr />
+<hr />
+
+<h2 id="gallery">Gallery</h2>
+
+<hr />
+
+<script src="https://snapwidget.com/js/snapwidget.js"></script>
+
+<iframe src="https://snapwidget.com/embed/810063" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
+
+<hr />
+<hr />
