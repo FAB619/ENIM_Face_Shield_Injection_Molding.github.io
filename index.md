@@ -69,7 +69,7 @@ In order to increase the production rate of these visor masks, a reflection was 
   </div>
 </div>
 
-# Documentaion and Files
+# Documentation and Files
 <hr />
 
 # Achievements
