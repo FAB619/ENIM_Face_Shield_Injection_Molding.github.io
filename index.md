@@ -13,10 +13,11 @@ layout: page
 # What?
 <hr />
 
+<img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/1.jpg" style="width:30px;height:30px;>
+
 
 
 # Why?
-<hr />
 
 
 # How?
@@ -30,15 +31,19 @@ layout: page
 <hr />
 <div class="row">
   <div class="column">
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/1.jpg" style="width:30px;height:30px;>
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/2.jpg" style="width:30px;height:30px;>
+    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/1.jpg">
+    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/2.jpg">
+    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/3.jpg">
   </div>
   <div class="column">
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/5.jpg" style="width:30px;height:30px;>
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/4.jpg" style="width:30px;height:30px;>
+    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/5.jpg">
+    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/4.jpg">
+    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/6.jpg">
   </div>
+</div>
   <div class="column">
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/3.jpg" style="width:30px;height:30px;>
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/6.jpg"style="width:30px;height:30px;>
+    <img src="underwater.jpg">
+    <img src="ocean.jpg">
+    <img src="wedding.jpg">
   </div>
 </div>
