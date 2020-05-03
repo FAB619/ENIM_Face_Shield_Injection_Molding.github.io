@@ -13,7 +13,7 @@ layout: page
 # What?
 <hr />
 
-<img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/1.jpg" width=30%>
+<img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/1.jpg" >
 
 ![](/assets/Media/3.jpg)
 
@@ -31,14 +31,14 @@ layout: page
 <hr />
 <div class="row">
   <div class="column">
-    <img src="/assets/Media/3.jpg">
-    <img src="/assets/Media/1.jpg">
-    <img src="/assets/Media/2.jpg">
+    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/1.jpg">
+    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/2.jpg">
+    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/3.jpg">
   </div>
   <div class="column">
-    <img src="underwater.jpg">
-    <img src="ocean.jpg">
-    <img src="wedding.jpg">
+    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/5.jpg">
+    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/4.jpg">
+    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/6.jpg">
   </div>
 </div>
   <div class="column">
