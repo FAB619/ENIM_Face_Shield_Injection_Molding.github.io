@@ -13,9 +13,9 @@ layout: page
 # What?
 <hr />
 
-<img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/1.jpg" width="193" height="130">
+<img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/1.jpg" style="width:30px;height:30px;>
 
-![](/assets/Media/3.jpg)
+
 
 # Why?
 
