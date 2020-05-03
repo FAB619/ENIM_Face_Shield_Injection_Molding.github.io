@@ -1,11 +1,13 @@
-title: ENIM FACE SHIELD INJECTION MOLDING
+title: ENIM FACE SHIELD
 author:
-  name: FAB619
-  email: alilakais@gmail.com
+  name: This documentation was done by ENIM Student
+  email: anonumosStudent@enim.u-monatir.tn
 description: > # this means to ignore newlines until "show_excerpts:"
-  Les masques visières sont utiles pour le personnel médical et également
-  pour tous les agents de service susceptibles
-  d’être confrontés un risque de contamination (Agents de nettoyage, pompiers, …)
+  About:
+
+  "ENIM FACE SHIELD" is an initiative powered by ENIM ,l'école nationae d'ingénieurs de Monastir ,
+  in partnership with the local companies and the tech community to provide medical supplies
+  to the medical staff and to help the Tunisian government
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -17,10 +19,10 @@ minima:
   # generate social links in footer
   social_links:
     #twitter: jekyllrb
-    github:  FAB619/ENIM_Face_Shield_Injection_Molding
+    #github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
-    # facebook: jekyll
+     facebook: ecole.nationale.dingenieurs.de.monastir
     # flickr:   jekyll
     # instagram: jekyll
     # linkedin: jekyll
