@@ -29,10 +29,21 @@ layout: page
 <h2 id="gallery">Gallery</h2>
 
 <hr />
-
-<script src="https://snapwidget.com/js/snapwidget.js"></script>
-
-<iframe src="https://snapwidget.com/embed/810063" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
-
-
-<hr />
+<div class="row">
+  <div class="column">
+    <img src="/assets/Media/3.jpg">
+    <img src="/assets/Media/1.jpg">
+    <img src="/assets/Media/2.jpg">
+  </div>
+  <div class="column">
+    <img src="underwater.jpg">
+    <img src="ocean.jpg">
+    <img src="wedding.jpg">
+  </div>
+</div>
+  <div class="column">
+    <img src="underwater.jpg">
+    <img src="ocean.jpg">
+    <img src="wedding.jpg">
+  </div>
+</div>
