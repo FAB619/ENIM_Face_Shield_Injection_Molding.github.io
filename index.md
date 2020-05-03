@@ -13,7 +13,7 @@ layout: page
 # What?
 <hr />
 
-<img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/1.jpg" width="80%">
+<img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/1.jpg" width="30%">
 
 ![](/assets/Media/3.jpg)
 
