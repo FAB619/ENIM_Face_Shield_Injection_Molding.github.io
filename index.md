@@ -20,12 +20,13 @@ layout: page
 
 
 # How?
+
+
 <hr />
 
 
-
-
 <h2 id="gallery">Gallery</h2>
+
 <hr />
 <div class="row">
   <div class="column">
@@ -36,7 +37,6 @@ layout: page
     <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/5.jpg" style="width:30px;height:30px;>
     <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/4.jpg" style="width:30px;height:30px;>
   </div>
-</div>
   <div class="column">
     <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/3.jpg" style="width:30px;height:30px;>
     <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/6.jpg"style="width:30px;height:30px;>
