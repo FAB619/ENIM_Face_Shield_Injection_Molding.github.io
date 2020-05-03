@@ -94,7 +94,5 @@ FAB619 is only the documentation author. The project belongs to ENIM - École na
 
 <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/13.jpg">
 
-This Project was entirely done by ENIM students and proffessors with the help of local industries to help the government against COVID-19.
 
-FAB619 is only the documentation author. The project belongs to ENIM - École nationale d'ingénieurs de Monastir.
 <hr />
