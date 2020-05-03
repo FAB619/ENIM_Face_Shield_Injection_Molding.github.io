@@ -11,6 +11,9 @@ layout: page
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZA-y-18QV-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # What?
+<hr />
+
+<img src="/assets/Media/3.jpg" width="80%">
 
 ![](/assets/Media/3.jpg)
 
@@ -21,7 +24,7 @@ layout: page
 
 
 <hr />
-<hr />
+
 
 <h2 id="gallery">Gallery</h2>
 
@@ -31,5 +34,5 @@ layout: page
 
 <iframe src="https://snapwidget.com/embed/810063" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
 
-<hr />
+
 <hr />
