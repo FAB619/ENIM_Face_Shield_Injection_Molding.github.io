@@ -45,4 +45,9 @@ In order to increase the production rate of these visor masks, a reflection was 
     <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/4.jpg" style="width:225px;height:300px;" />
     <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/6.jpg" style="width:225px;height:300px;" />
   </div>
+  <div class="column">
+    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/7.jpg" style="width:225px;height:300px;" />
+    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/8.jpg" style="width:225px;height:300px;" />
+    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/9.jpg" style="width:225px;height:300px;" />
+  </div>
 </div>
