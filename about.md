@@ -3,10 +3,18 @@ layout: page
 title: About
 permalink: /about/
 ---
+<img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/Enim_logo.png">
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The National School of Engineers of Monastir (Arabic: المدرسة الوطنية للمهندسين بالمنستير) or ENIM is a Tunisian school of engineers based in the city of Monastir located in the east of the country. It depends on the University of Monastir.
 
-You can find the source code for Minima at GitHub:  kais alila
+It was created in 1987 and is based on both theoretical and practical lessons in the following fields:
+
+ Energetic Engineering
+ Mechanical Engineering ;
+ Electrical engineering;
+ Textile engineering.
+
+
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
 
