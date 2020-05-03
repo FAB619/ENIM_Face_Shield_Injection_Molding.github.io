@@ -13,7 +13,7 @@ layout: page
 # What?
 <hr />
 
-<img src="../assets/Media/3.jpg" width="80%">
+<img src="Enim_logo.png" width="80%">
 
 ![](/assets/Media/3.jpg)
 
