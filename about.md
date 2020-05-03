@@ -18,12 +18,4 @@ It was created in 1987 and is based on both theoretical and practical lessons in
  Textile engineering.
 
 
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[ENIM Official website][http://www.enim.rnu.tn/] /
