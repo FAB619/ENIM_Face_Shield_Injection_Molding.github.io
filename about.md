@@ -9,9 +9,12 @@ The National School of Engineers of Monastir (Arabic: المدرسة الوطن�
 
 It was created in 1987 and is based on both theoretical and practical lessons in the following fields:
 
- Energetic Engineering
- Mechanical Engineering ;
- Electrical engineering;
+ Energetic Engineering.
+
+ Mechanical Engineering.
+
+ Electrical engineering.
+
  Textile engineering.
 
 
